@@ -1,14 +1,6 @@
-streamlit==1.22.0
-diffusers 
-transformers 
-torch 
-plotly 
-gtts 
-pandas 
-numpy 
-requests 
-Pillow
-matplotlib
-pygame
-Groq
-streamlit-js-eval
+# StoryCoder Requirements
+streamlit==1.32.0
+numpy==1.26.4
+matplotlib==3.8.3
+pillow==10.2.0
+requests==2.31.0
