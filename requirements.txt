@@ -1,0 +1,14 @@
+streamlit==1.22.0
+diffusers 
+transformers 
+torch 
+plotly 
+gtts 
+pandas 
+numpy 
+requests 
+Pillow
+matplotlib
+pygame
+Groq
+streamlit-js-eval
